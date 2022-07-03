@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top-section{
+    background: linear-gradient(90deg,#573F2E 0%, #573F2E 30%,#3E2D21 30%, #3E2D21 100%);
+    width: 100vw;
+    height: 30vh;
+}
+
+.second-section{
+    background: linear-gradient(90deg,#FAEDED 0%, #FAEDED 30%,#6A4021 30%, #6A4021 100%);
+    width: 100vw;
+    height: 70vh;
+}
